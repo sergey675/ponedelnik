@@ -34,6 +34,8 @@ namespace GeoData
     }
 }
 
+ПРОДОЛЖЕНИЕ
+
 ```C#
 using System;
 using System.Collections.Generic;
