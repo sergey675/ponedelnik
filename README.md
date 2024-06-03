@@ -4,6 +4,7 @@
 
 КОД ПРОГРАММЫ
 
+```C#
 using System;
 using System.IO;
 using GeoJSON.Net.Geometry;
