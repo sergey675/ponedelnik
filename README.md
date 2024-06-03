@@ -33,11 +33,13 @@ namespace GeoData
         }
     }
 }
+```
 
 
 
 КОД ПРОГРАММЫ
 
+```C#
 using System;
 using System.Collections.Generic;
 using System.IO;
@@ -171,6 +173,7 @@ namespace GeoJSONL
         }
     }
 }
+```
 
 
 РАЗРАБОТЧИКИ
