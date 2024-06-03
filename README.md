@@ -2,8 +2,8 @@
 
 Мы создали DLL-библиотеку на C#, которая предоставляет функции для работы с геоданными в формате GeoJSON
 
-КОД ПРОГРАММЫ
 
+БИБЛИОТЕКА
 ```C#
 using System;
 using System.IO;
@@ -36,6 +36,7 @@ namespace GeoData
 
 
 
+КОД ПРОГРАММЫ
 
 using System;
 using System.Collections.Generic;
